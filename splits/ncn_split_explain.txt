@@ -1,0 +1,32 @@
+ncn_ch2_v2_split
+    : ncn_ch2 모든 frame
+ncn_ch2_v3_split
+    : ncn_ch2 초반, 후반의 일부 frmae을 제외
+
+ncn_ch2_v3_split_1
+    : 하나의 영상에서 1개의 frame 랜덤 선택
+ncn_ch2_v3_split_3
+    : 하나의 영상에서 3개의 frame 랜덤 선택
+ncn_ch2_v3_split_6
+    : 하나의 영상에서 6개의 frame 랜덤 선택
+ncn_ch2_v3_split_9
+    : 하나의 영상에서 9개의 frame 랜덤 선택
+    ncn_ch2_v3_split_13
+    : 하나의 영상에서 13개의 frame 랜덤 선택
+ncn_ch2_v3_split_25
+    : 하나의 영상에서 25개의 frame 랜덤 선택
+ncn_ch2_v3_split_50
+    : 하나의 영상에서 50개의 frame 랜덤 선택
+ncn_ch2_v3_split_100
+    : 하나의 영상에서 100개의 frame 랜덤 선택
+ncn_ch2_v3_split_125
+    : 하나의 영상에서 125개의 frame 랜덤 선택
+ncn_ch2_v3_split_150
+    : 하나의 영상에서 150개의 frame 랜덤 선택
+ncn_ch2_v3_split_200
+    : 하나의 영상에서 200개의 frame 랜덤 선택
+ncn_ch2_v3_split_250
+    : 하나의 영상에서 250개의 frame 랜덤 선택
+
+ncn_ch2_v3_split_50000
+    : 50000개의 frame 랜덤 선택
